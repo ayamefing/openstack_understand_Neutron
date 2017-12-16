@@ -1,5 +1,12 @@
 深入理解 Neutron -- OpenStack 网络实现
 ============
+
+> 原文：[深入理解 Neutron -- OpenStack 网络实现](https://github.com/yeasy/openstack_understand_Neutron)
+
+> 作者：[yeasy](https://github.com/yeasy)
+
+> 版本：V0.9: 2015-06-29
+
 [Neutron](https://wiki.openstack.org/wiki/Neutron) 是 OpenStack 项目中负责提供网络服务的组件，它基于软件定义网络的思想，实现了网络虚拟化下的资源管理。
 
 本书将剖析 Neutron 组件的原理和实现。
